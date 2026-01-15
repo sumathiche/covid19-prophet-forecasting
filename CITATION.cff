@@ -1,7 +1,9 @@
 cff-version: 1.2.0
 title: "COVID-19 Forecasting using Facebook Prophet"
-message: "If you use this project, please cite it as below."
+message: "If you use this software, please cite it."
 authors:
   - family-names: Sumathi
+    given-names: Che
 version: 1.0.0
 date-released: 2024-01-15
+repository-code: https://github.com/sumathiche/covid19-prophet-forecasting
